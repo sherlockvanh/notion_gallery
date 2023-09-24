@@ -10,6 +10,7 @@
 body{
   /* height: 100vh; */
   display: flex;
+  border-radius: 20px;
   justify-content: center;
   align-items: center; 
   background: #e5c3c3;
