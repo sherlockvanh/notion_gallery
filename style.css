@@ -18,8 +18,8 @@ body{
 .slider{
   position: relative;
   background: #000116;
-  width: 80%;
-  min-height: 70%px;
+  width: 50%;
+  min-height: 50%;
   margin: 20px;
   overflow: hidden;
   border-radius: 10px;
